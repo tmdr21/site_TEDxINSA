@@ -21,8 +21,8 @@
 	define("homepage_tedx_description_content","In the spirit of ideas worth spreading, TED has created a <a href=\"https://www.ted.com/tedx\">program called TEDx</a>. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxINSA, where x = independently organized TED event. At our TEDxINSA event, TED Talks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.");
 	define("homepage_section_title","What is TEDxINSA ?");
 	define("homepage_section_content","TEDxINSA is a conference organized every year since 2013 by the association INSA Talks and its students of the National Institute of Applied Sciences of Lyon, independently under a TED license. </p> <p> During an afternoon of animations and conferences, TEDxINSA gives the floor to speakers from around the world to enable them to transmit a new, innovative and impacting message. We offer you a day during which you will live a unique and rewarding experience.");	
-	define("homepage_event_description_title","Theme of the year : FINDING WAYS");
-	define("homepage_event_description_content","We are all looking for something : success, love or simply happiness. But how do we get to what we are looking for ? The answer is simple : by finding a way.</p><p>A way, yes, but which one ? And how ? Not that easy after all ! So this year's theme, Finding Ways, is an invitation to reflect on our development, our ambitions, but also the fears that sometimes constrain our choices.");
+	define("homepage_event_description_title","Theme of the year : REBOOTED");
+	define("homepage_event_description_content","Starting over has always been an option. Faced with changes, you have to know how to adapt but sometimes even start all over again. A reboot can be the solution.");
 	define("theEvent","The Event");
 	define("event_location","Online");
 
